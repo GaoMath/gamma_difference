@@ -1,2 +1,1 @@
-# Rakuten-Internship
-My code at Rakuten
+# gamma_difference
