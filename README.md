@@ -1,1 +1,1 @@
-# gamma_difference
+# How to compute the pdf/cdf of a gamma difference distribution.
