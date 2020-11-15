@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Feb 03 15:44:40 2016
-gammadifference_sample 
-@author: ar-zeke.xie
+gammadifference_sample.
+A code example for using gammadifference.
 """
 
 import gammadifference
