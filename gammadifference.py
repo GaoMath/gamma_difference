@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-
-"""gammadifference
 
+"""gammadifference
 Is a module used to compute the pdf, cdf, inverse_cdf, cdf_segment of 
 the gamma difference distribution. A gamma difference distribution can 
 be defined as the difference of two gamma distribution.
-
-@author: ar-zeke.xie
 """
 
 import mpmath
